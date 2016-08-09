@@ -1,0 +1,254 @@
+ 1 McKensey Van Wie SR Sun Prairie 18:22.48 5:55
+ 2 Katie Hietpas SR Sun Prairie 18:36.55 6:00
+ 3 Trista Pringle JR Sun Prairie 18:46.92 6:03
+ 4 Sophie Bolich SR Plymouth 19:15.78 6:12
+ 5 Jenna Lederman SR Muskego 19:34.76 6:19
+ 6 Abby Janto SR West Bend West 19:44.90 6:22
+ 7 Annie Moore SR Fond du Lac 19:47.68 6:23
+ 8 Laura Kiernan SR Madison West 19:56.96 6:26
+ 9 Morgan Dommisse SR West Bend East 20:05.62 6:29
+ 10 Abigail Helwig JR Neenah 20:14.76 6:31
+ 11 Elena Corbae SR Madison West 20:14.96 6:32
+ 12 Sam Weiler SR Neenah 20:19.60 6:33
+ 13 Aly Weum JR Stoughton 20:24.02 6:34
+ 14 Abeba Sullivan JR Port Washington 20:31.09 6:37
+ 15 Macie Peters SR Green Bay Preble 20:32.02 6:37
+ 16 Macie Brogan JR Manitowoc Lincoln 20:32.32 6:37
+ 17 Megan Senderhauf JR Neenah 20:43.01 6:41
+ 18 Isa Darvin JR Madison West 20:47.70 6:42
+ 19 Hannah Sorensen SR Neenah 20:48.88 6:42
+ 20 Jacqui Beran JR Neenah 20:49.85 6:43
+ 21 Mikayla Lenz JR Sauk Prairie 20:52.13 6:44
+ 22 Sammy Buerger JR Oshkosh North 20:52.17 6:44
+ 23 Georgia Harrison SR West Bend East 21:01.10 6:46
+ 24 Brenna Kautz JR Port Washington 21:03.56 6:47
+ 25 Libby Brugger SR West Bend West 21:05.93 6:48
+ 26 Sophie Held SR Madison West 21:08.55 6:49
+ 27 Julie Schneiberg SR West Bend East 21:09.44 6:49
+ 28 Olivia Jankowski SR Plymouth 21:14.80 6:51
+ 29 Ellie Blake SR Sun Prairie 21:15.70 6:51
+ 30 Morgan McClone JR Neenah 21:18.16 6:52
+ 31 Caroline Daniels SR West Allis Hale 21:23.69 6:54
+ 32 Emma Hughes SR Oregon 21:24.65 6:54
+ 33 Madison Mihaljevic SR West Allis Hale 21:25.88 6:54
+ 34 Natalie Majkowski SR Green Bay Preble 21:26.16 6:54
+ 35 Addie Schmitz JR Oshkosh North 21:27.88 6:55
+ 36 Cassi Mennenoh SR Badger 21:28.30 6:55
+ 37 Ally Thiel JR Sun Prairie 21:32.17 6:56
+ 38 Lorraine Tenpenny JR Cedarburg 21:37.48 6:58
+ 39 Clea Roe JR Stoughton 21:38.63 6:58
+ 40 Mercedes Krenz SR Beaver Dam 21:42.13 7:00
+ 41 Sarah Hamilton SR Badger 21:43.20 7:00
+ 42 Emmalee Ciriacks SR West Bend East 21:45.42 7:01
+ 43 Mary Holterman SR Muskego 21:50.30 7:02
+ 44 Madelynn St. Clair JR Oregon 21:51.04 7:02
+ 45 Kayla Wruk SR Badger 21:53.92 7:03
+ 46 Erin Simon SR Oshkosh North 22:00.42 7:05
+ 47 Elisabeth Rusch SR West Bend East 22:01.67 7:06
+ 48 Callie Schulist JR Muskego 22:08.72 7:08
+ 49 Emily Helwig SR Neenah 22:10.56 7:09
+ 50 Mackenzie Lenz JR Sauk Prairie 22:25.21 7:13 
+ 51 Justice Montoya JR Beaver Dam 22:27.01 7:14
+ 52 Morgan Vandeyacht JR Neenah 22:34.44 7:16
+ 53 Anna Peterman JR Manitowoc Lincoln 22:34.45 7:16
+ 54 Connie Hansen SR Oregon 22:35.06 7:17
+ 55 Grace Huibregtse JR Plymouth 22:39.62 7:18
+ 56 Cassidy Giese JR Badger 22:40.24 7:18
+ 57 Kalina Kramer SR West Bend East 22:43.24 7:19
+ 58 Zoe Huebner JR Neenah 22:43.75 7:19
+ 59 Della Haanen JR Green Bay Preble 22:45.48 7:20
+ 60 Rebecca Murray SR Badger 22:46.62 7:20
+ 61 Bree Paddock SR Oregon 22:50.55 7:22
+ 62 Britany Jensen JR Muskego 22:51.38 7:22
+ 63 Kennedy Ferron JR Beaver Dam 22:52.75 7:22
+ 64 Lizet Moreno JR Green Bay Preble 22:52.97 7:22
+ 65 Brooke Schoepp JR Sauk Prairie 22:54.01 7:23
+ 66 Megan Clegg JR Green Bay Preble 22:57.86 7:24
+ 67 Tori Burns JR West Bend West 22:59.90 7:25
+ 68 Sammi Divito SR Badger 23:00.52 7:25
+ 69 Ella McDevitt SR Sun Prairie 23:03.88 7:26
+ 70 Ellie Recker JR Sauk Prairie 23:06.34 7:27
+ 71 Natalie Roh JR Neenah 23:08.25 7:27
+ 72 Kayla Fritsch JR Neenah 23:08.34 7:27
+ 73 Julia Adams SR Badger 23:10.88 7:28
+ 74 Erica Fahrenkrug SR West Bend East 23:10.95 7:28
+ 75 Mackenzie Helgemoe SR Beaver Dam 23:12.38 7:29
+ 76 Mia Zutter JR Sun Prairie 23:12.64 7:29
+ 77 Anne Bondal SR Sheboygan South 23:13.50 7:29
+ 78 Gabby Mraz SR Muskego 23:14.23 7:29
+ 79 Paige Helgerson SR Neenah 23:16.96 7:30
+ 80 Samantha Grady JR Cedarburg 23:17.48 7:30
+ 81 Carolena Rothe SR Neenah 23:20.83 7:31
+ 82 Olivia Nortwen JR Stoughton 23:26.40 7:33
+ 83 Erin Beachkofski JR Neenah 23:27.42 7:33
+ 84 Marin Kelly JR Neenah 23:28.32 7:34
+ 85 Nora Ghandhi JR Madison West 23:29.86 7:34
+ 86 Jessica McNellis SR Sheboygan South 23:29.88 7:34
+ 87 Eleanor Hodgson SR Madison West 23:30.88 7:35
+ 88 Taylor Mangan SR Mayville 23:31.58 7:35
+ 89 Leyla Moy JR Madison West 23:32.77 7:35
+ 90 Jenny Kinjerski SR Green Bay Preble 23:33.41 7:35
+ 91 Sam Schuetze SR Manitowoc Lincoln 23:37.33 7:37
+ 92 Kayla Schneider SR West Bend West 23:38.28 7:37
+ 93 Susan Maloney SR Madison West 23:42.10 7:38
+ 94 Kalei Hering JR Plymouth 23:43.22 7:39
+ 95 Hannah Schutt SR Sauk Prairie 23:44.46 7:39
+ 96 Hunter Lohr JR Sauk Prairie 23:44.82 7:39
+ 97 Morgan Vandeveer JR Oshkosh North 23:45.43 7:39
+ 98 Shannon Koehler SR Manitowoc Lincoln 23:45.48 7:39
+ 99 Peyton Schmidt JR Oregon 23:45.98 7:39
+ 100 Daniels Haley SR Muskego 23:47.43 7:40
+ 101 Haley Maday JR Muskego 23:48.96 7:40
+ 102 Meg Thorison SR Cedarburg 23:55.64 7:43
+ 103 Jordyn Pieper SR Plymouth 24:02.44 7:45
+ 104 Elise Murphy SR Neenah 24:05.43 7:46
+ 105 Elle Elmudesi JR Badger 24:05.76 7:46
+ 106 Lexa Van Fleet SR Muskego 24:08.92 7:47
+ 107 Maria Laakso JR Green Bay Preble 24:09.73 7:47
+ 108 Isabel Strazny SR Manitowoc Lincoln 24:12.01 7:48
+ 109 Leonie Wieben JR Madison West 24:13.09 7:48
+ 110 Hannah Weier SR Muskego 24:13.23 7:48
+ 111 Kate Plaster SR Madison West 24:13.58 7:48
+ 112 Carolyn Vogt JR Oregon 24:13.81 7:48
+ 113 Kayla Laufer JR West Bend East 24:14.81 7:49
+ 114 Emily Frey SR West Bend East 24:17.34 7:50
+ 115 Hannah Harms SR Plymouth 24:18.16 7:50
+ 116 Claire Chandler JR Madison West 24:18.68 7:50
+ 117 Chloe Billstrom SR Oshkosh North 24:20.56 7:51
+ 118 Liliana Re JR Madison West 24:21.07 7:51
+ 119 Rachel Budd SR Cedarburg 24:21.63 7:51
+ 120 Gwendelyn Kieffer JR Green Bay Preble 24:21.95 7:51
+ 121 Stella Bush JR Madison West 24:22.18 7:51
+ 122 Cassidy Kemppainen JR Neenah 24:22.60 7:51
+ 123 Elizabeth Markham JR Oregon 24:26.01 7:52
+ 124 Jacqeline Heim JR Green Bay Preble 24:26.90 7:53
+ 125 Jenna Gardner SR Stoughton 24:29.68 7:54
+ 126 Shelby Nickels JR Manitowoc Lincoln 24:30.30 7:54
+ 127 Caroline Krebs SR West Bend West 24:30.41 7:54
+ 128 Elizabeth Schreibe SR West Bend West 24:30.50 7:54
+ 129 Arianna Sande JR Muskego 24:31.60 7:54
+ 130 Violeta Calderon JR Madison West 24:32.04 7:54
+ 131 Kyla Spann JR Sun Prairie 24:32.71 7:55
+ 132 Roxy Weiland JR Cedarburg 24:32.77 7:55
+ 133 Angela Heniadis JR West Bend East 24:33.08 7:55
+ 134 Lexi Mielke SR Sun Prairie 24:35.22 7:55
+ 135 Maddy Westemeier JR Oshkosh North 24:38.95 7:57
+ 136 Summer Downs SR Oshkosh North 24:40.88 7:57
+ 137 Lizzy Francis SR Plymouth 24:41.06 7:57
+ 138 Monica Kusik JR West Allis Hale 24:44.24 7:58
+ 139 Caroline Dick-Garc JR West Bend West 24:52.18 8:01
+ 140 Victoria Harris JR Green Bay Preble 24:54.80 8:02
+ 141 Katie Sebranek SR Sun Prairie 24:55.92 8:02
+ 142 Sophia Dimmer JR Port Washington 24:59.16 8:03
+ 143 Lydia Gauthier SR Oshkosh North 25:08.03 8:06
+ 144 Addie Cooper JR Oregon 25:08.21 8:06
+ 145 Maddy Ott JR Oshkosh North 25:08.22 8:06
+ 146 Sarah Bailey SR Madison West 25:10.61 8:07
+ 147 Elizabeth Lavine JR Madison West 25:11.93 8:07
+ 148 Joanna Furlan SR Madison West 25:12.66 8:07
+ 149 Caura Winters SR Neenah 25:13.12 8:08
+ 150 Catie Wolc SR Beaver Dam 25:14.16 8:08 
+ 151 Emily Zernick SR Oregon 25:14.86 8:08
+ 152 Brianna Mitchell SR Sun Prairie 25:15.14 8:08
+ 153 Megan Curley JR Muskego 25:19.71 8:10
+ 154 Brieanna Huizenga SR Mayville 25:20.13 8:10
+ 155 Sara Sendalbach JR Green Bay Preble 25:20.99 8:10
+ 156 Sydney Rall SR Neenah 25:22.33 8:10
+ 157 Emma Ranheim JR Madison West 25:25.68 8:12
+ 158 Ciara Jarmain SR Mayville 25:27.92 8:12
+ 159 Maddy Hoffman SR Green Bay Preble 25:30.39 8:13
+ 160 Hanna Perry SR Muskego 25:31.16 8:13
+ 161 Kaiti Bestor SR Cedarburg 25:32.22 8:14
+ 162 Alyssa Prinz JR West Bend West 25:33.96 8:14
+ 163 Veronica Kazemba SR West Bend West 25:36.07 8:15
+ 164 Brie Lentz SR Sun Prairie 25:41.72 8:17
+ 165 Allison Chandler JR Madison West 25:45.16 8:18
+ 166 Tori Tiso SR Badger 25:47.70 8:19
+ 167 Kayla Charneski JR Neenah 25:48.35 8:19
+ 168 Rachel Sanborn JR West Bend East 25:48.70 8:19
+ 169 Tait Mauland JR West Bend West 25:49.54 8:19
+ 170 Dorothea Wedwick SR Sauk Prairie 25:52.24 8:20
+ 171 Bree Love SR Muskego 25:53.92 8:21
+ 172 Hailey Teniente SR Sun Prairie 25:54.68 8:21
+ 173 Abbi Holzmann JR Green Bay Preble 25:56.16 8:21
+ 174 Zaida Eiden JR Oshkosh North 25:58.00 8:22
+ 175 Sarah Devenport JR West Bend West 25:58.49 8:22
+ 176 Melanie Daley SR West Bend East 25:59.28 8:22
+ 177 Anna Olson SR Neenah 26:04.24 8:24
+ 178 Deyna Gatica SR Sheboygan South 26:05.53 8:24
+ 179 Isabel Ortiz SR West Bend East 26:07.20 8:25
+ 180 Lily Bleiler SR Stoughton 26:13.59 8:27
+ 181 Allison Trampe JR West Bend East 26:14.66 8:27
+ 182 Erin Boettcher SR Stoughton 26:15.39 8:28
+ 183 Carly Steiner JR Muskego 26:21.11 8:29
+ 184 Jennifer Stewart SR Madison West 26:27.24 8:31
+ 185 Emily Paltzer JR Sheboygan South 26:27.67 8:32
+ 186 Kayla Keegan SR West Bend East 26:30.69 8:32
+ 187 Haley Siegworth SR Green Bay Preble 26:33.47 8:33
+ 188 Laiken Morgan JR West Bend West 26:35.24 8:34
+ 189 Emma Knasinski JR Muskego 26:35.73 8:34
+ 190 Sydney Kylar JR West Bend East 26:36.13 8:34
+ 191 Ellerie Laatsch SR Oshkosh North 26:37.31 8:35
+ 192 Mia Rossi JR Madison West 26:39.32 8:35
+ 193 Jenna Torre JR Madison West 26:39.41 8:35
+ 194 Taylor Kintopf JR West Bend East 26:40.98 8:36
+ 195 Liz Engman SR Cedarburg 26:44.98 8:37
+ 196 Abbey Boushele SR Neenah 26:49.20 8:38
+ 197 Makaela Hopp SR Muskego 26:49.24 8:38
+ 198 Kayla Wiedholz SR Oregon 26:50.11 8:39
+ 199 Rachel Syring SR Madison West 26:51.95 8:39
+ 200 Megan Gibbs JR Badger 26:52.77 8:40
+ 201 Ellie Horsnell JR Oregon 26:53.39 8:40
+ 202 Rebecca Johnson JR Muskego 26:55.46 8:40
+ 203 Hailey Cole JR Sun Prairie 26:57.12 8:41
+ 204 Sydney Becker JR Sun Prairie 26:59.07 8:42
+ 205 Aimee Solheim SR West Bend West 26:59.32 8:42
+ 206 Sawyer Wilkinson JR Oregon 26:59.90 8:42
+ 207 Alma Bartholow SR Madison West 27:00.27 8:42
+ 208 Shelby Orcutt SR Stoughton 27:01.34 8:42
+ 209 Carol Grunewald JR Oshkosh North 27:02.09 8:43
+ 210 Paige Wimberly SR Green Bay Preble 27:05.51 8:44
+ 211 Faith Bosacki SR Green Bay Preble 27:06.57 8:44
+ 212 Alyssa Krueger SR Neenah 27:08.37 8:45
+ 213 Chelsea Bell SR Cedarburg 27:10.43 8:45
+ 214 Bridget Bartal SR Badger 27:13.53 8:46
+ 215 Azelea Rincon SR Sheboygan South 27:15.51 8:47
+ 216 Lauren Hipp SR Cedarburg 27:15.80 8:47
+ 217 Kelli Fischer SR Port Washington 27:26.02 8:50
+ 218 Kathleen Zarnott JR Mayville 27:27.38 8:51
+ 219 Monica Starck SR Badger 27:33.52 8:53
+ 220 Jillian Sesing JR Fond du Lac 27:35.52 8:53
+ 221 Megan Kocher JR Muskego 27:37.10 8:54
+ 222 Sami Veum JR Sun Prairie 27:43.19 8:56
+ 223 Courtney Smythe JR Manitowoc Lincoln 27:47.62 8:57
+ 224 Katie Lisowe JR Fond du Lac 27:49.16 8:58
+ 225 Sarah Uhren JR West Bend East 27:50.16 8:58
+ 226 Caralyn Collins SR Green Bay Preble 27:53.09 8:59
+ 227 Yadley Quinones SR Neenah 27:57.05 9:00
+ 228 Brianna Gaulke SR Green Bay Preble 27:59.79 9:01
+ 229 Phoebe Woolson JR Madison West 28:41.87 9:15
+ 230 Gabby Garofini JR Muskego 28:44.83 9:16
+ 231 Emily Sebranek SR Sun Prairie 28:51.15 9:18
+ 232 Grayson Cline SR Stoughton 29:02.81 9:21
+ 233 Gabriela Braun SR Madison West 29:04.78 9:22
+ 234 Christina Wright SR Oregon 29:14.58 9:25
+ 235 Anna Jaye JR Madison West 29:43.94 9:35
+ 236 Katie Buhman JR Madison West 29:44.27 9:35
+ 237 Katy Reilly SR Stoughton 29:59.05 9:40
+ 238 Marie Deknuydt JR Stoughton 30:21.83 9:47
+ 239 Maddie Schlageter SR Cedarburg 30:33.97 9:51
+ 240 Lily Lor JR Manitowoc Lincoln 30:34.79 9:51
+ 241 Raquel Tapia JR Madison West 30:35.89 9:51
+ 242 Abigail Priepke JR Muskego 31:30.69 10:09
+ 243 Kaile Becker SR Stoughton 31:54.61 10:17
+ 244 Morgan Hughes SR Sun Prairie 31:58.92 10:18
+ 245 Kirsten Sanford JR Stoughton 32:04.96 10:20
+ 246 Jessica Kuhl JR Beaver Dam 32:06.56 10:21
+ 247 Julianne Klokow JR Sheboygan South 32:07.51 10:21
+ 248 Ellie Lagaard JR West Bend East 32:12.37 10:22
+ 249 Skylar Henn JR Green Bay Preble 32:47.67 10:34
+ 250 Bridget Kaiser JR Muskego 33:01.39 10:38
+ 251 Rachel Uhren SR West Bend East 33:14.91 10:43
+ 252 Bolynn Petroselli SR Mayville 33:27.83 10:47
+ 253 Bruna Finatti JR Cedarburg 35:00.67 11:17
+ 254 Mathilda Harris SR Madison West 35:52.99 11:33
